@@ -1,8 +1,0 @@
-/* Optional: slightly different color for Sign Up button */
-.login-card form button[type="submit"] {
-  background-color: #3ea7ff;
-}
-
-.login-card form button[type="submit"]:hover {
-  background-color: #2c90e2;
-}
